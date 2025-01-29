@@ -1,0 +1,4 @@
+.venv/
+
+smtp_secrets.sh
+__pycache__/
